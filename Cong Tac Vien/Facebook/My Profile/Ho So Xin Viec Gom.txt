@@ -1,0 +1,7 @@
+﻿Hồ sơ xin việc gồm
+
+1.	Đơn xin việc
+2.	Sơ yếu lý lịch
+3.	Hộ khẩu, CMND (bản photo)
+4.	Các chứng chỉ, văn bằng có liên quan (photo)
+5.	Hình 3x4 (2 tấm)
