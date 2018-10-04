@@ -1,4 +1,5 @@
 ﻿Chào bạn,
 Công ty mình đang tuyển nhân sự
 Bạn học ngành gì?
-Đã tốt nghiệp chưa
+Đã tốt nghiệp chưa?
+Bạn tốt nghiệp trung cấp hay cao đẳng hay đại học?
